@@ -84,16 +84,3 @@ gcc client.c -o client
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**. Feel free to use and modify it.
-
----
-
-## 🤝 Contributing
-We welcome contributions! If you’d like to improve this project:
-- Fork the repository 🍴
-- Create a new branch 🔀
-- Make your changes and push 📤
-- Submit a pull request 🛠
-
----
